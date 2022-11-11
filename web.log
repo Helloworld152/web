@@ -1,0 +1,13 @@
+2022-11-11 17:27:14.812 | DEBUG    | __main__:<module>:6 - hello
+2022-11-11 17:27:14.812 | INFO     | __main__:<module>:7 - world
+2022-11-11T17:28:12.816183+0800 DEBUG hello
+2022-11-11T17:28:12.816183+0800 INFO world
+2022-11-11 17:29:36.181 | DEBUG    | __main__:<module>:6 - hello
+2022-11-11 17:29:36.181 | INFO     | __main__:<module>:7 - world
+2022-11-11 17:31:03.605 | DEBUG    | __main__:<module>:6 - hello
+2022-11-11 17:31:03.605 | INFO     | __main__:<module>:7 - world
+2022-11-11 17:31:03.606 | WARNING  | __main__:<module>:8 - 1
+2022-11-11 17:31:03.606 | ERROR    | __main__:<module>:9 - 2
+2022-11-11 17:31:03.606 | INFO     | __main__:<module>:10 - 3
+2022-11-11 17:31:03.606 | SUCCESS  | __main__:<module>:11 - 4
+2022-11-11 17:31:03.606 | CRITICAL | __main__:<module>:12 - 5
